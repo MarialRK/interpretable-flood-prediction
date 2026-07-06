@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+
+# Data files (TOO LARGE for GitHub)
+data/
+*.nc
+*.hdf
+*.tif
+*.csv
+*.pkl
+*.keras
+*.json
+*.mp4
+*.avi
+
+# Processed data
+processed_data/
+
+# Models
+models/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
