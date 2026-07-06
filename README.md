@@ -29,13 +29,33 @@ The application provides:
 - 14-day flood forecasting capability
 - Built specifically for the Sudd Wetland Region of South Sudan
 
----
+# 📸 Application Screenshots
+
+## screenshot_high_risk.png
+
+<img width="1362" height="690" alt="image" src="https://github.com/user-attachments/assets/e9981844-b430-4270-bed4-408efa81865c" />
+
+
+## screenshot_low_risk.png
+
+<img width="1320" height="613" alt="image" src="https://github.com/user-attachments/assets/8320755e-0b5b-468f-a7b5-3bb2ee5c30f0" />
+
+
+## screenshot_shap_analysis.png 
+<img width="1034" height="640" alt="image" src="https://github.com/user-attachments/assets/9c914b03-fac4-4643-9d4a-9e9d8afed84d" />
+
+
+## screenshot_model_comparison.png 
+
+<img width="1098" height="622" alt="image" src="https://github.com/user-attachments/assets/bbbab691-46fb-4ed7-a37e-ba05a2f11582" />
+
+
+
 
 ## 🌐 Live Application
 
 🔗 **Streamlit App**
-
-https://sudd-flood-predict.streamlit.app
+https://sudd-flood-prediction.streamlit.app/ 
 
 ---
 
